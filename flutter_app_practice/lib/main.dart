@@ -36,5 +36,8 @@ void main() {
   Widget widget_1() {
 
   }
+  Widget widget_3() {
+
+  }
 
 }
