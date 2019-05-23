@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//色块管理
 class ContainerView extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
