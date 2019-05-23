@@ -10,11 +10,11 @@ import 'package:flutter_app_practice/test/test_stateful_widget.dart';
 import 'package:flutter_app_practice/test/test_widgets_1.dart';
 import 'package:flutter_app_practice/test/test_wrap_view.dart';
 
-void main (){
+void main() {
   runApp(new MaterialApp(
     //静态路由方式 配置初始路由
     initialRoute: '/',
-  title: '赛博坦',
+    title: '赛博坦',
 //  home: new ShoppingList(
 //    products: <Product>[
 //      new Product(name: '赛博坦'),
@@ -22,13 +22,10 @@ void main (){
 //      new Product(name: '赛亚星'),
 //    ],
 //  ),
-  home: new RouteStateful(),
+    home: new RouteStateful(),
   ));
-  ///测试测试测试测试测试测试
 
-
-
-
-
-
+  ///11111111111111111
+  ///222222222222222
+  ///33333333333333333
 }
