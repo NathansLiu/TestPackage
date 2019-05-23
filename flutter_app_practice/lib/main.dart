@@ -24,17 +24,6 @@ void main() {
 //  ),
     home: new RouteStateful(),
   ));
-
-
-  ///11111111111111111
-  ///44444444444444444
-   Widget widget_2() {}
-
-  Widget widget_1() {
-
-  }
-  Widget widget_3() {
-
-  }
+  String s8;
 
 }
