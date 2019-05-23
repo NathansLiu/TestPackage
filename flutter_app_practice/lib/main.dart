@@ -28,10 +28,7 @@ void main() {
 
   ///11111111111111111
   ///44444444444444444
-
-  ///222222222222222
-
-  Widget widget_2() {}
+   Widget widget_2() {}
 
   Widget widget_1() {
 
