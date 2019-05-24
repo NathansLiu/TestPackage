@@ -27,6 +27,6 @@ void main() {
 
   String s1;
   String s2;
-  String s3;
+  new RouteStateful();
 
 }
